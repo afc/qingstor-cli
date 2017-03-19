@@ -19,8 +19,11 @@ Make sure python3 can be found in $PATH and qingstor-sdk installed.
 
 # References
 Qingstor docs: https://docs.qingcloud.com/qingstor/index.html
+
 Qingstor API: https://docs.qingcloud.com/qingstor/api/index.html
+
 Qingstor SDK: https://docs.qingcloud.com/qingstor/sdk/python/qingstor_sdk.html
+
 HTTP/1.1 Status code: https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
 [qingstor-sdk-python]: https://github.com/yunify/qingstor-sdk-python
