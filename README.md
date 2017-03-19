@@ -13,7 +13,7 @@ You may need sudo privilege if you want to install it to your system.
 
 #### Launch
 ```shell
-$ python3 ./qs_cli.py
+$ python3 qs_cli.py
 ```
 Make sure python3 can be found in $PATH and qingstor-sdk installed.
 
