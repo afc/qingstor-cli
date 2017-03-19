@@ -12,7 +12,7 @@ $ pip install qingstor-sdk
 You may need sudo privilege if you want to install it to your system.
 
 #### Launch
-```python
+```shell
 $ python3 ./qs_cli.py
 ```
 Make sure python3 can be found in $PATH and qingstor-sdk installed.
